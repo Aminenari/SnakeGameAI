@@ -1,4 +1,7 @@
 # SnakeGameAI
+
+This project features a Snake game controlled by an AI agent using reinforcement learning, specifically Q-learning. Below is an overview of the files involved in this project, please read those. To run the Game with the agent, please execute the file `AgentModel.py`.
+
 ## Files Overview
 
 1. **Environment.py**  
